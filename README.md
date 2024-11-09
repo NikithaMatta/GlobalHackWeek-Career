@@ -8,7 +8,7 @@ Each challenge is saved in its own folder with a dedicated `README.md` file that
 
 | Challenge Number | Description | Folder Link |
 | ---------------- | ----------- | ----------- |
-| 1 | First Non-Repeating Character in a String | [Challenge One](challenge-one) |
+| 1 | First Non-Repeating Character in a String | [Challenge One](Challenge01) |
 | ... | _More Challenges Coming Soon_ | _To Be Added_ |
 
 > **Note:** As each new challenge is completed, it will be added to this table along with links to its folder and README.
